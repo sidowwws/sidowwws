@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=200&section=header&text=Muhammad%20Ridho%20Billah&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Software%20Developer&descSize=18&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=220&section=header&text=Muhammad%20Ridho%20Billah&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer&descSize=18&descAlignY=60" width="100%"/>
 
 # Muhammad Ridho Billah
 
@@ -16,53 +16,71 @@ I'm passionate about **programming and website design**, with an interest in cre
 
 I believe development is a continuous process of learning, building, and improving.
 
-My focus is to keep developing my skills while creating better digital experiences.
+My focus is to continuously develop my programming and website design skills while creating better digital experiences.
 
 ---
 
-## Skills
+## Skills & Technologies
 
 ### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
 `HTML` `CSS` `JavaScript` `ReactJS`
 
 ### Backend
 
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,express,python" />
+</p>
+
 `PHP` `Laravel` `Express.js` `Python`
 
 ### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
 `Flutter` `Dart`
 
 ### Database & Tools
 
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,docker" />
+</p>
+
 `MySQL` `Docker`
 
 ---
 
-## Technology
+## What I Do
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**HTML**
-**CSS**
-**JavaScript**
-**PHP**
-**Laravel**
-**ReactJS**
+### Web Development
+
+Developing websites with a focus on functionality, usability, and clean design.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**Express.js**
-**Flutter**
-**Dart**
-**Python**
-**Docker**
-**MySQL**
+### Website Design
+
+Creating user-friendly website experiences while continuously improving design skills.
+
+</td>
+
+<td width="33%" valign="top">
+
+### Software Development
+
+Developing programming skills and exploring different technologies through continuous learning.
 
 </td>
 </tr>
@@ -70,49 +88,47 @@ My focus is to keep developing my skills while creating better digital experienc
 
 ---
 
-## Development
+## Contact Me
 
-### Web Development
+<br>
 
-Developing websites with a focus on functionality, usability, and clean design.
+<a href="https://www.instagram.com/ridhobillah21/">
+<img src="https://img.shields.io/badge/Instagram-ridhobillah21-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-### Website Design
+ 
 
-Building user-friendly website experiences while continuously improving design and development skills.
+<a href="https://www.linkedin.com/in/m-ridho-billah-431665387/">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ridho%20Billah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### Software Development
+ 
 
-Exploring different technologies and developing programming skills through continuous learning.
+<a href="mailto:mridhobillah@gmail.com">
+<img src="https://img.shields.io/badge/Email-mridhobillah@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
-
-## Personal Philosophy
-
-> Learn continuously.
-> Build consistently.
-> Improve constantly.
-
----
-
-## Connect
-
-**Instagram**
-
-[@ridhobillah21](https://www.instagram.com/ridhobillah21/)
-
-**LinkedIn**
-
-[Muhammad Ridho Billah](https://www.linkedin.com/in/m-ridho-billah-431665387/)
-
-**Email**
-
-[mridhobillah@gmail.com](mailto:mridhobillah@gmail.com)
-
-**Contact**
-
-08989209976
+<br>
+<br>
 
 ---
+
+## Connect With Me
+
+<br>
+<a href="mailto:mridhobillah@gmail.com">
+<img src="https://img.shields.io/badge/Email-mridhobillah@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+ 
+
+<a href="tel:08989209976">
+<img src="https://img.shields.io/badge/Phone-08989209976-16A34A?style=for-the-badge&logo=phone&logoColor=white"/>
+</a>
+
+<br>
+<br>
+
 
 ## Currently Focused On
 
@@ -120,13 +136,10 @@ Exploring different technologies and developing programming skills through conti
 
 <br>
 
----
+> Learn continuously.
+> Build consistently.
+> Improve constantly.
 
-<div align="right">
-
-**Muhammad Ridho Billah**
-*Software Developer*
-
-</div>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=120&section=footer" width="100%"/>
