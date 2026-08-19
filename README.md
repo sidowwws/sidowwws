@@ -96,13 +96,13 @@ Developing programming skills and exploring different technologies through conti
 <img src="https://img.shields.io/badge/Instagram-ridhobillah21-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
- 
+ 
 
 <a href="https://www.linkedin.com/in/m-ridho-billah-431665387/">
 <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ridho%20Billah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
- 
+ 
 
 <a href="mailto:mridhobillah@gmail.com">
 <img src="https://img.shields.io/badge/Email-mridhobillah@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -120,7 +120,7 @@ Developing programming skills and exploring different technologies through conti
 <img src="https://img.shields.io/badge/Email-mridhobillah@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
- 
+ 
 
 <a href="tel:08989209976">
 <img src="https://img.shields.io/badge/Phone-08989209976-16A34A?style=for-the-badge&logo=phone&logoColor=white"/>
@@ -136,9 +136,43 @@ Developing programming skills and exploring different technologies through conti
 
 <br>
 
+## Contributions
+
+<p>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sidowwws&bg_color=111827&color=94A3B8&line=2563EB&point=60A5FA&area_color=1D4ED8&area=true&hide_border=true" 
+    width="100%" 
+  />
+</p>
+
+---
+
+### Development Activity
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Consistent Learning**
+
+Continuously developing programming and website design skills.
+
 > Learn continuously.
 > Build consistently.
 > Improve constantly.
+
+</td>
+
+
+<td width="50%" valign="top">
+
+**Continuous Improvement**
+
+Building, experimenting, and improving through development.
+
+</td>
+</tr>
+</table>
 
 <br>
 
