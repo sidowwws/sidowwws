@@ -127,8 +127,6 @@ Developing programming skills and exploring different technologies through conti
 </a>
 
 <br>
-<br>
-
 
 ## Currently Focused On
 
