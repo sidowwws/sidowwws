@@ -136,17 +136,6 @@ Developing programming skills and exploring different technologies through conti
 
 <br>
 
-## Contributions
-
-<p>
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sidowwws&bg_color=111827&color=94A3B8&line=2563EB&point=60A5FA&area_color=1D4ED8&area=true&hide_border=true" 
-    width="100%" 
-  />
-</p>
-
----
-
 ### Development Activity
 
 <table>
